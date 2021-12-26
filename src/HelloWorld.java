@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World stash 1 again");
+        System.out.println("Hello World stashed again");
     }
 }
